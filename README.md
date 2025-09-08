@@ -27,7 +27,7 @@ A classic **Battleship** game where you compete against the computer! Sink all e
 
 **Gameplay Preview:** Player vs Computer, showing hits/misses and ship positions.
 
-![App Screenshot](assets/BattleShipApp.png)
+
 
 10x10 grids **initialization** for Player & Computer
 
