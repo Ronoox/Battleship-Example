@@ -42,9 +42,5 @@ A classic **Battleship** game where you compete against the computer! Sink all e
 
 - Players and PC take turns attacking each other's grid.  
 - Hits and misses are clearly indicated on the grid.  
-- Game ends when all ships of one side are sunk, and the database is updated automatically.  
-
----
-
-## 📂 Repository Structure
+- Game ends when all ships of one side are sunk, and the database is updated automatically.
 
