@@ -41,3 +41,8 @@ A classic **Battleship** game where you compete against the computer! Sink all e
 - Hits and misses are clearly indicated on the grid.  
 - Game ends when all ships of one side are sunk, and the database is updated automatically.
 
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License** – see the LICENSE file for details.
