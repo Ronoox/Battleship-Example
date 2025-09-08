@@ -25,16 +25,13 @@ A classic **Battleship** game where you compete against the computer! Sink all e
 
 ## 📸 Screenshots
 
-### Gameplay
-![Gameplay Screenshot](assets/gameplay.png)
+**Gameplay Preview:** Player vs Computer, showing hits/misses and ship positions.
 
-### Database Records
-![Database Screenshot](assets/database.png)
+![App Screenshot](assets/BattleShipApp.png)
 
-### Example of Rules Redirection
-![Rules Button Screenshot](assets/rules.png)
+10x10 grids **initialization** for Player & Computer
 
-*Note: Place screenshots in an `assets/` folder inside your repository.*
+![App Screenshot](assets/Grid_Initialization.png)
 
 ---
 
